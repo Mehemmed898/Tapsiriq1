@@ -1,0 +1,70 @@
+.blok1 {
+    width: 400px;
+    height: 250px;
+    background-color: black;
+display: center;
+margin-left: 579px;
+margin-top: 254px;
+
+}
+
+.blok2 {
+
+    width: 300px;
+    height: 200px;
+    border: 2px solid;
+    border-color: black;
+
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: red;
+    display: inline-block;
+    text-align: center;
+border-radius: 120px;
+width: 120px;
+height: 120px;
+margin-left: 85px;
+margin-top: 40px;
+border: 240px;
+
+}
+.blok3{
+    border: 2px solid;
+    border-color: black;
+    width: 400px;
+    height: 300px;
+ margin-left: 400px;
+
+}
+.blok3{
+    align-items: flex-end;
+    justify-content: space-evenly;
+    display: flex;
+    width: 180px;
+    padding: 5px;
+
+}
+.div1{
+    height: 250px;
+  background-color: aqua;
+  width: 25px;
+}
+.div2{
+    height: 192px;
+    width: 25px;
+    background-color: aqua;
+}
+.div3{
+height: 92px;
+width: 25px;
+background-color: aqua;
+
+}
+.div4{
+    height: 221px;
+    width: 25px;
+    background-color: aqua;
+}
